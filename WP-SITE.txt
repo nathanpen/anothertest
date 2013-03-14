@@ -1,0 +1,12 @@
+PRODUCTION
+
+http://wprugby.co.za.www24.jnb2.host-h.net/wp-login.php
+user: dev_nathan
+password: password
+
+STAGING
+
+http://digitalmediapublishers.net/dev/wp_site/wp-admin/
+user: dev_nathan
+password: password
+
